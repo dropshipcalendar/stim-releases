@@ -1,2 +1,2 @@
-# DC Stim Releases
-Public installers and auto‑update assets for DC Stim. App verifies integrity via OS code‑signing.
+# Stim Releases
+Public installers and auto‑update assets for Stim. App verifies integrity via OS code‑signing.
